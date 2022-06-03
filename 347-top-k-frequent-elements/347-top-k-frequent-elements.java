@@ -22,8 +22,7 @@ class Solution {
         }
         
     
-        
-        // 
+ 
         for(Object key: map.keySet()){
             
             
@@ -44,11 +43,11 @@ class Solution {
             
         }
         
-        //System.out.println(result.get(2));
-        
-        int[] output = new int[k];
         int kCount = 0;
-        // Constant size
+        int[] output = new int[k];
+        
+        
+        //  O(n) -> n is size of input array
         for(int i = nums.length; i > 0; i--)
         {
 
@@ -56,7 +55,7 @@ class Solution {
                  
                 ArrayList<Integer> list = (ArrayList<Integer>)result.get(i);
                 
-                 // Constant time
+                 // Constant time -> k times -> O(n+k)
                 for(Integer integer: list){
                     
                     if(kCount >= k){
