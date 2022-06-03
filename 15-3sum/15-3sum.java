@@ -17,7 +17,7 @@ class Solution {
             if(i > 0 && nums[i] == nums[i-1]){
                 continue;
             }
-            
+            // O(n)
             twoSum(nums,i+1,nums[i]);
             
         }
@@ -59,3 +59,5 @@ class Solution {
         }
     }
 }
+// Time Complexity: O(n log n) * O(n) -> O(n^2 log n) -> O(n^2)
+// Space Complexity: O(n)
