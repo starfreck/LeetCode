@@ -53,3 +53,5 @@ class Solution {
     
 
 }
+// Time Complexity: O(m+n) where m is size of list 1 and the n is the size of list 2
+// Space Complexity: O(1)
