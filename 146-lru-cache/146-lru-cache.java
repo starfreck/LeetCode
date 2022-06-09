@@ -53,7 +53,9 @@ class LRUCache {
 		remove(node);
 		add(node);
 	}
-
+    
+    // Return the value of the key if the key exists,
+    // otherwise return -1
 	// O(1)
 	public int get(int key){
 
@@ -67,7 +69,11 @@ class LRUCache {
 		return node.val;
 
 	}
-
+    
+    // Update the value of the key if the key exists.
+    // Otherwise, add the key-value pair to the cache.
+    // If the number of keys exceeds the capacity from this operation,       
+    // evict the least recently used key.
 	// O(1)
 	public void put(int key, int value){
 
