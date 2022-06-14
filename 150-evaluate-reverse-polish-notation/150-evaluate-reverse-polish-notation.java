@@ -28,15 +28,12 @@ class Solution {
                     stack.push(String.valueOf(b+a));
                 } else if(pop.equals("-")){
                     stack.push(String.valueOf(b-a));
-                } else if(pop.equals("/")){
-                    // int v = b/a;              
+                } else if(pop.equals("/")){              
                     stack.push(String.valueOf(b/a));
                 } else if(pop.equals("*")){
                     stack.push(String.valueOf(b*a));
                 }
-                System.out.println(stack.peek());
             } else {
-                //System.out.println(pop);
                 stack.push(pop);
             }
         }
@@ -44,3 +41,5 @@ class Solution {
         return Integer.valueOf(stack.pop());
     }
 }
+// Time Complexity: O(n)
+// Space Complexity: O(n)
