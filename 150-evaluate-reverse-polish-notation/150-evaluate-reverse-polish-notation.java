@@ -1,40 +1,28 @@
 class Solution {
     
-    Stack<String> ops;
-    Stack<String> stack;
-    
     public int evalRPN(String[] tokens) {
         
-        ops = new Stack<String>();
-        stack = new Stack<String>();
+        Stack<String> stack = new Stack<>();
         
-        for(int i = tokens.length-1; i >= 0; i--){
-            ops.push(tokens[i]);
-        }
-        
-        int ans = 0;
-        
-        while(!ops.isEmpty()){
+        for(String c : tokens) {
             
-            String pop = ops.pop();
-            
-            if(pop.equals("+") || pop.equals("-") || pop.equals("/") || pop.equals("*")){
+            if(c.equals("+") || c.equals("-") || c.equals("*") || c.equals("/")){
                 
-                int a = Integer.valueOf(stack.pop());
                 int b = Integer.valueOf(stack.pop());
+                int a = Integer.valueOf(stack.pop());
 
-                
-                if(pop.equals("+")){ 
-                    stack.push(String.valueOf(b+a));
-                } else if(pop.equals("-")){
-                    stack.push(String.valueOf(b-a));
-                } else if(pop.equals("/")){              
-                    stack.push(String.valueOf(b/a));
-                } else if(pop.equals("*")){
-                    stack.push(String.valueOf(b*a));
+                if(c.equals("+")){ 
+                     stack.push(String.valueOf(a+b));
+                } else if(c.equals("-")){
+                    stack.push(String.valueOf(a-b));
+                } else if(c.equals("/")){              
+                    stack.push(String.valueOf(a/b));
+                } else if(c.equals("*")){
+                    stack.push(String.valueOf(a*b));
                 }
+                
             } else {
-                stack.push(pop);
+                stack.push(c);
             }
         }
                     
