@@ -58,3 +58,5 @@ class Solution {
        return store1.equals(store2);
     }
 }
+// Time Complexity: O(n)
+// Space Complexity: O(n)
