@@ -41,5 +41,5 @@ class Solution {
         return Math.max(leftSubTreeHeight,rightSubTreeHeight);
     }
 }
-// Time Complexity: O(log n)
-// Space Complexity:O(n) - in Memory Stack
+// Time Complexity: O(n) - we are visiting each node once.
+// Space Complexity: O(log n) - in Memory Stack - The Sack can max goes up to the max height of the tree.
