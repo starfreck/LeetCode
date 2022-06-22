@@ -33,5 +33,5 @@ class Solution {
 
     }
 }
-// Time Complexity: O(log n)
-// Space Complexity:O(n)
+// Time Complexity: O(n) - we are visiting each node once.
+// Space Complexity: O(log n) - in Memory Stack - The Sack can max goes up to the max height of the tree.
