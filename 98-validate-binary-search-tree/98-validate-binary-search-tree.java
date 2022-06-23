@@ -16,13 +16,17 @@
 class Solution {
     
     boolean flag = true;
+    
+    // O(n)
     ArrayList<Integer> list = new ArrayList<>();
     
     public boolean isValidBST(TreeNode root){
         
+        // O(n)
         isValidBST(root,null,false);
         
         if(flag) {
+            // O(n)
             for(int i = 1; i < list.size(); i++) {
                 if(list.get(i) > list.get(i-1)) {
                     continue;
