@@ -15,27 +15,13 @@
  */
 class Solution {
     
+    long preValue = Long.MIN_VALUE;
     boolean flag = true;
-    
-    // O(n)
-    ArrayList<Integer> list = new ArrayList<>();
     
     public boolean isValidBST(TreeNode root){
         
         // O(n)
-        isValidBST(root,null,false);
-        
-        if(flag) {
-            // O(n)
-            for(int i = 1; i < list.size(); i++) {
-                if(list.get(i) > list.get(i-1)) {
-                    continue;
-                } else {
-                    flag = false;
-                }
-            }
-        }
-            
+        isValidBST(root,null,false);            
         return flag;
     }
     
@@ -55,7 +41,18 @@ class Solution {
         
         // In Order
         isValidBST(node.left, node, false);
-        list.add(node.val);
+        
+        
+        if(preValue < node.val) {
+            preValue = node.val;
+            System.out.println(preValue);
+        } else if(preValue == Long.MIN_VALUE){
+            preValue = node.val;
+            System.out.println(preValue);
+        } else {
+            flag = false;
+        }
+        
         isValidBST(node.right, node, true);
         
     }
