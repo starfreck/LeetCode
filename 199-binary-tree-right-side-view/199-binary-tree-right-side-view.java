@@ -15,17 +15,11 @@
  */
 class Solution {
     
-    Map<Integer,Integer> map = new HashMap<>();
-    
     List<Integer> result = new ArrayList<>();
     
     public List<Integer> rightSideView(TreeNode root) {
         
         rightSideView(root,0);
-        
-        for(int i = 0; i < map.size(); i++){
-            result.add((int)map.get(i));      
-        }
         
         return result;
     }
@@ -36,12 +30,12 @@ class Solution {
             return;
         }
         
+        if(level == result.size()){
+            result.add(node.val);
+        }
         
-        // Keep Updating the Map
-        map.put(level,node.val);
-        
-        rightSideView(node.left, level+1);
         rightSideView(node.right, level+1);
+        rightSideView(node.left, level+1);
     }
 }
 // Time Complexity: O(n)
