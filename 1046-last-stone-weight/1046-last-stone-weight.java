@@ -1,8 +1,9 @@
 class Solution {
     
-    Queue<Integer> pq = new PriorityQueue<>((a,b) -> b-a);
-    
+    // With PQ
     public int lastStoneWeight(int[] stones) {
+        
+         Queue<Integer> pq = new PriorityQueue<>((a,b) -> b-a);
         
         for(int stone : stones){
             pq.add(stone);
