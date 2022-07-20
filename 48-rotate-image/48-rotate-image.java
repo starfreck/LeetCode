@@ -7,7 +7,9 @@ class Solution {
         
         while(left < right) {
             
-            for(int i = 0; i < (right-left); i++){
+            int numberOfRotationForLayer = right-left;
+            
+            for(int i = 0; i < numberOfRotationForLayer; i++){
                 
                 // Store A in the temp
                 int temp = matrix[left][left+i];
