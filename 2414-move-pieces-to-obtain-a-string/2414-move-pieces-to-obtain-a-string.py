@@ -1,6 +1,6 @@
 class Solution:
     # TC: O(N)
-    # SC: O(1)
+    # SC: O(N)
     # Two pointer approach
     # L can only move left side and R can only move on right side, we can ignore all '_'
     # according to above if L can only move left then the postion for all L's in target string would be either equal (in case there ewas no space) or less than the start position
