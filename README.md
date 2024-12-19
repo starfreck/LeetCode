@@ -116,4 +116,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/starfreck/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/starfreck/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/starfreck/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/starfreck/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
