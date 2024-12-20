@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/starfreck/LeetCode/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/starfreck/LeetCode/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/starfreck/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/starfreck/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/starfreck/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2232-adding-spaces-to-a-string](https://github.com/starfreck/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/starfreck/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
