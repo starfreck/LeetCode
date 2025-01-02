@@ -135,10 +135,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/starfreck/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0904-leaf-similar-trees](https://github.com/starfreck/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/starfreck/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0904-leaf-similar-trees](https://github.com/starfreck/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -147,4 +149,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/starfreck/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0904-leaf-similar-trees](https://github.com/starfreck/LeetCode/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
