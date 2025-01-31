@@ -1,23 +1,13 @@
 class Solution:
 
-    """
-    TC: O(n)
-    SC: O(n)
-    """
+    # TC: O(m+n)
+    # SC: O(1) since we know that s and t consist of lowercase English letters. O(26)
     def isAnagram(self, s: str, t: str) -> bool:
-        dict1 = {}
-        dict2 = {}
-        for c in s:
-            if c in dict1:
-                dict1[c] = dict1[c] + 1
-            else:
-                dict1[c] = 1
-        for c in t:
-            if c in dict2:
-                dict2[c] = dict2[c] + 1
-            else:
-                dict2[c] = 1
-        if dict1 == dict2:
-            return True
-        return False
-
+        if len(s) != len(t):
+            return False
+            
+        m1, m2 = {}, {}
+        for i in range(len(s)):
+            m1[s[i]] = 1+ m1.get(s[i],0)
+            m2[t[i]] = 1+ m2.get(t[i],0)
+        return m1 == m2
