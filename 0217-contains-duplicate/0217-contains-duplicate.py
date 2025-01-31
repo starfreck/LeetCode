@@ -4,7 +4,7 @@
 class Solution:
 
     """
-    TC: O(1)
+    TC: O(n) set(nums) will itrate through the list and create set from it
     SC: O(n) for the set of size n
     """
     def containsDuplicate(self, nums: List[int]) -> bool:
