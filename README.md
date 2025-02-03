@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/starfreck/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/starfreck/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -152,4 +153,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/starfreck/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0904-leaf-similar-trees](https://github.com/starfreck/LeetCode/tree/master/0904-leaf-similar-trees) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/starfreck/LeetCode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
