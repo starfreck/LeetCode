@@ -103,11 +103,13 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/starfreck/LeetCode/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/starfreck/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/starfreck/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/starfreck/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/starfreck/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/starfreck/LeetCode/tree/master/0198-house-robber) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/starfreck/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/starfreck/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/starfreck/LeetCode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
