@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/starfreck/LeetCode/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/starfreck/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/starfreck/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0695-max-area-of-island](https://github.com/starfreck/LeetCode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/starfreck/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/starfreck/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0948-sort-an-array](https://github.com/starfreck/LeetCode/tree/master/0948-sort-an-array) |
@@ -179,11 +180,13 @@ Collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/starfreck/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/starfreck/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0341-flatten-nested-list-iterator](https://github.com/starfreck/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0695-max-area-of-island](https://github.com/starfreck/LeetCode/tree/master/0695-max-area-of-island) |
 | [0904-leaf-similar-trees](https://github.com/starfreck/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/starfreck/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0695-max-area-of-island](https://github.com/starfreck/LeetCode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -215,4 +218,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/starfreck/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/starfreck/LeetCode/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/starfreck/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
