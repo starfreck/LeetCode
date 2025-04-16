@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/starfreck/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/starfreck/LeetCode/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/starfreck/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/starfreck/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/starfreck/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0948-sort-an-array](https://github.com/starfreck/LeetCode/tree/master/0948-sort-an-array) |
 | [0965-unique-email-addresses](https://github.com/starfreck/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/starfreck/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/starfreck/LeetCode/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/starfreck/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/starfreck/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0965-unique-email-addresses](https://github.com/starfreck/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/starfreck/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/starfreck/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/starfreck/LeetCode/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/starfreck/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/starfreck/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/starfreck/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1013-fibonacci-number](https://github.com/starfreck/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -147,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/starfreck/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/starfreck/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0969-number-of-recent-calls](https://github.com/starfreck/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -198,4 +202,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/starfreck/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/starfreck/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
