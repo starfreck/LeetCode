@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/starfreck/LeetCode/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/starfreck/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/starfreck/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/starfreck/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/starfreck/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0948-sort-an-array](https://github.com/starfreck/LeetCode/tree/master/0948-sort-an-array) |
 | [0965-unique-email-addresses](https://github.com/starfreck/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/starfreck/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/starfreck/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
 |  |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/starfreck/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/starfreck/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/starfreck/LeetCode/tree/master/0198-house-robber) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/starfreck/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/starfreck/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1013-fibonacci-number](https://github.com/starfreck/LeetCode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/starfreck/LeetCode/tree/master/1250-longest-common-subsequence) |
