@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/starfreck/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/starfreck/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/starfreck/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
@@ -149,12 +150,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/starfreck/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/starfreck/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/starfreck/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0969-number-of-recent-calls](https://github.com/starfreck/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/starfreck/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0969-number-of-recent-calls](https://github.com/starfreck/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -165,12 +168,14 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/starfreck/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/starfreck/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0341-flatten-nested-list-iterator](https://github.com/starfreck/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0904-leaf-similar-trees](https://github.com/starfreck/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/starfreck/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/starfreck/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0341-flatten-nested-list-iterator](https://github.com/starfreck/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0904-leaf-similar-trees](https://github.com/starfreck/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
@@ -203,4 +208,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/starfreck/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/starfreck/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/starfreck/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
